@@ -1,0 +1,9 @@
+[{"Numerical":86,"Boolean":"True","Single Select":"BTC","Multiple Select": "BTC, ETH"},
+{"Numerical":16,"Boolean":"True","Single Select":"BTC","Multiple Select":"ETH, USD"},
+{"Numerical":29,"Boolean":"False","Single Select":"BTC","Multiple Select":"ETH, USD"},
+{"Numerical":82,"Boolean":"True","Single Select":"BTC","Multiple Select":"ETH, USD"},
+{"Numerical":78,"Boolean":"False","Single Select":"PLN","Multiple Select":"USD, PLN"},
+{"Numerical":8,"Boolean":"False","Single Select":"ETH","Multiple Select":"BTC, USD"},
+{"Numerical":99,"Boolean":"True","Single Select":"ETH","Multiple Select":"BTC, USD"},
+{"Numerical":58,"Boolean":"True","Single Select":"CNY","Multiple Select":"PLN, ETH"},
+{"Numerical":90,"Boolean":"False","Single Select":"CNY","Multiple Select":"PLN, ETH"}]
